@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[22]:
-
-
 from flask import Flask, request, jsonify, render_template
 import re
 import nltk
